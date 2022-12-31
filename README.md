@@ -47,7 +47,7 @@ As a developer, I am a problem-solver at heart. With a strong foundation in comp
 
 ---------
 <h3 align="left">Statistics</h3>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mwakabela&show_icons=true&locale=en&layout=compact" alt="mwakabela" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mwakabela&show_icons=true&locale=en&layout=compact" alt="mwakabela" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mwakabela&show_icons=true&locale=en" alt="mwakabela" /></p> <br>
 
