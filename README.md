@@ -33,7 +33,7 @@ As a developer, I am a problem-solver at heart. With a strong foundation in comp
 
 
 
-<h3 align="left">Connect with me</h3>
+# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <p align="left">
 <a href="https://twitter.com/sir_autodidact" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sir_autodidact" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/edwin-changwe-249ab612b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwin-changwe-249ab612b" height="30" width="40" /></a>
