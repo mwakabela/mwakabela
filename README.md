@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://edwinchangwe.netlify.app/)
 
-<h1 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, I'm Edwin Changwe</h1>
+<h1 align="center">Hello <img src="https://github.com/mwakabela/mwakabela/blob/main/Assets/Earth.gif" width="24px">, I'm Edwin Changwe</h1>
 <h3 align="center">A passionate Developer and Cybersecurity Specialist from Zambia </h3>
 
 
@@ -33,7 +33,7 @@ As a developer, I am a problem-solver at heart. With a strong foundation in comp
 
 
 
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+# Connect with me<img src="https://github.com/mwakabela/mwakabela/blob/main/Assets/Handshake.gif" height="32px">
 <p align="left">
 <a href="https://twitter.com/sir_autodidact" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sir_autodidact" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/edwin-changwe-249ab612b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwin-changwe-249ab612b" height="30" width="40" /></a>
