@@ -15,7 +15,7 @@ As a developer, I am a problem-solver at heart. With a strong foundation in comp
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwakabela&label=Profile%20views&color=0e75b6&style=flat" alt="mwakabela" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sir_autodidact" target="blank"><img src="https://img.shields.io/twitter/follow/sir_autodidact?logo=twitter&style=for-the-badge" alt="sir_autodidact" /></a> </p>
+
 
 
 - 🔭 I’m currently working on **A couple of websites**
@@ -36,9 +36,9 @@ As a developer, I am a problem-solver at heart. With a strong foundation in comp
 
 # Connect with me<img src="https://github.com/mwakabela/mwakabela/blob/main/Assets/Handshake.gif" height="32px">
 <p align="left">
-<a href="https://twitter.com/sir_autodidact" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sir_autodidact" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/edwin-changwe-249ab612b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwin-changwe-249ab612b" height="30" width="40" /></a>
-<a href="https://instagram.com/techie_daemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techie_daemon" height="30" width="40" /></a>
+
 </p>
 
 ---------
