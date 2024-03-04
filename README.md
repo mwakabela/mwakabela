@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://edwinchangwe.netlify.app/)
+[![MasterHead](https://64.media.tumblr.com/7b64a795a61e176e8e063482dc5f59be/deaff8831894d7a5-87/s500x750/d609f9031b73e826214e4426de47d3fa07950937.gifv)](https://edwinchangwe.netlify.app/)
 
 <h1 align="center">Hello <img src="https://github.com/mwakabela/mwakabela/blob/main/Assets/Earth.gif" width="24px">, I'm Edwin Changwe</h1>
 <h3 align="center">A passionate Developer and Cybersecurity Specialist from Zambia <img src="https://github.com/mwakabela/mwakabela/blob/main/Assets/zambia-flag-gif.gif" width="34px"></h3>
